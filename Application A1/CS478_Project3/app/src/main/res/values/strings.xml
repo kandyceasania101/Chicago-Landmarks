@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CS478_Project3</string>
+    <string name="permission_label">Write Requirement Level: Dangerous</string>
+    <string name="permission_description">Project3 Required Permission</string>
+</resources>

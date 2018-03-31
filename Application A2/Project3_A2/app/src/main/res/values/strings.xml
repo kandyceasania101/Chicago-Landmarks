@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Project3 A2</string>
+    <string-array name="RestaurantsArray">
+        <item>Yard House</item>
+        <item>The Capital Grille</item>
+        <item>The Gage</item>
+        <item>Trattoria No. 10</item>
+        <item>The Dearborn</item>
+        <item>Acanto</item>
+    </string-array>
+    <string-array name="rSitesArray">
+        <item>https://www.yardhouse.com/home</item>
+        <item>https://www.thecapitalgrille.com/</item>
+        <item>http://www.thegagechicago.com/</item>
+        <item>http://www.trattoriaten.com/</item>
+        <item>http://www.thedearborntavern.com/</item>
+        <item>http://www.acantochicago.com/</item>
+    </string-array>
+    <string-array name="AttractionsArray">
+        <item>Lincoln Park Zoo</item>
+        <item>Navy Pier</item>
+        <item>Museum of Science and Industry</item>
+        <item>The Art Institute</item>
+        <item>The TILT</item>
+        <item>Willis Tower</item>
+        <item>Hull House</item>
+        <item>Shedd Aquarium</item>
+        <item>Field Museum of Natural History</item>
+        <item>Alder Planetarium</item>
+    </string-array>
+    <string-array name="aSitesArray">
+        <item>http://www.lpzoo.org/</item>
+        <item>http://www.navypier.org/</item>
+        <item>http://www.msichicago.org/</item>
+        <item>http://www.artic.edu/</item>
+        <item>http://www.360chicago.com/tilt/</item>
+        <item>http://www.willistower.com/</item>
+        <item>http://hullhousemuseum.org/</item>
+        <item>http://www.sheddaquarium.org/</item>
+        <item>http://www.fieldmuseum.org/</item>
+        <item>http://www.adlerplanetarium.org/</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

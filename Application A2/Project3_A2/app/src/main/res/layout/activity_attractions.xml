@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:label="Attractions"
+    android:orientation="vertical"
+    tools:context=".AttractionsActivity">
+
+    <include layout="@layout/toolbar" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <fragment
+            android:id="@+id/list"
+            android:name="com.example.kandyceasania.project3_a2.List_Fragment"
+            android:layout_width="0px"
+            android:layout_height="match_parent"
+            android:layout_below="@id/toolbar"
+            android:layout_weight="1"></fragment>
+
+        <fragment
+            android:id="@+id/details"
+            android:name="com.example.kandyceasania.project3_a2.Details_Fragment"
+            android:layout_width="0px"
+            android:layout_height="match_parent"
+            android:layout_below="@id/toolbar"
+            android:layout_weight="2"></fragment>
+    </LinearLayout>
+
+
+</LinearLayout>
